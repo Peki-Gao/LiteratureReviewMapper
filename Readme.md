@@ -69,6 +69,7 @@ Scopus Search API 通常能返回：
 ## 4. 第一步：检索元信息
 
 在左侧流程图中点击 **1 检索元信息**，会打开设置弹窗。
+![Demo Screenshot](images/01.png)
 
 ### 4.1 输入关键词
 
@@ -88,7 +89,7 @@ innovation OR governance
 表示检索同时满足“平台生态/数字平台”和“创新/治理”的文献。
 
 ### 4.2 选择数据源
-
+![Demo Screenshot](images/02.png)
 可以勾选：
 
 - OpenAlex
@@ -212,6 +213,7 @@ Method Variant: Comparative Case Study
 
 点击不同按钮即可切换图。
 
+![Demo Screenshot](images/03.png)
 ---
 
 ## 8. 总体引用网络图
@@ -236,7 +238,7 @@ Method Variant: Comparative Case Study
 ---
 
 ## 9. 数据 / 方法 / 理论三圆分析
-
+![Demo Screenshot](images/04.png)
 三圆分别表示：
 
 - 数据：文献有明确 `Data Root`。
@@ -293,7 +295,7 @@ Method Variant: Comparative Case Study
 ---
 
 ## 12. 关键文献
-
+![Demo Screenshot](images/05.png)
 点击“打开核心文献”弹窗，可以查看当前图或当前三圆区域对应的关键文献。
 
 每篇文献会显示：
